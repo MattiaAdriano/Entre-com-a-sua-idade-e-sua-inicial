@@ -2,7 +2,9 @@
 
 #include <stdio.h>
 
-void main(){
+void main()
+{
+
 	char inicial;
 	int idade;
 	printf("Entre com a sua idade e sua inicial:\n");
